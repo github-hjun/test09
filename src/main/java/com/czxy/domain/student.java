@@ -10,4 +10,5 @@ import lombok.Data;
 public class student {
     private  String name;
     private  String age;
+    private  String sex;
 }
